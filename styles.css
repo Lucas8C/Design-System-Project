@@ -1,0 +1,102 @@
+body {
+    margin: 0 10%;
+}
+
+h1,
+h2 {
+    font-weight: 600;
+}
+
+.container {
+    border: solid 2px rgb(188, 171, 171);
+    padding: 10px;
+    margin: 10px auto;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 47%;
+    text-align: center;
+    margin: 5px;
+    min-height: 100px;
+    margin-left: 10px;
+}
+
+.cool-blue {
+    background-color: #2d5dcc;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+* {
+    font-family: 'Inconsolata', sans-serif;
+
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.barlow {
+    font-family: 'Barlow', monospace;
+}
+
+.kanit {
+    font-family: 'Kanit', sans-serif;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.text-panel h2 {
+    Font-weight: 500;
+    Font-weight: 18px;
+    Font-family: 'Barlow', sans-serif;
+}
+
+.text-panel p {
+    Font-weight: 400 (regular);
+    Font-size: 14px;
+    Font-family: 'Barlow', sans-serif;
+}
